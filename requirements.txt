@@ -1,0 +1,5 @@
+kerykeion==4.26.2
+nltk==3.9.1
+Flask==3.1.1
+WTForms==3.2.1
+fpdf==1.7.2
